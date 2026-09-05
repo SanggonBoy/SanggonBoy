@@ -54,10 +54,10 @@ OS=windows + wsl2
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Blade-FF2D20?logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" />
 
 **Frameworks & Runtimes**
 <br/>
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
