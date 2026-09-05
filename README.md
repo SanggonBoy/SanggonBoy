@@ -27,15 +27,15 @@
 
 ## `$ whoami`
 
-> **Alexander Jay** — *Full-Stack Developer* who ships at the intersection of **AI tooling**, **MCP servers**, and **pragmatic web stacks**.
+> **Alexander Jay** — *Full-Stack Developer* who builds at the intersection of **AI tooling**, **MCP servers**, and **modern web stacks**.
 >
-> I like things that compile, run, and don't lie about what they do. Bug bounty trained me to read code like an attacker — and to write it like one, too.
+> I like things that compile, run, and don't lie about what they do.
 
 ```
 $ cat /etc/profile.d/kingjay.sh
 ROLE=full-stack
-STACK=python, typescript, php, go
-FOCUS=ai-agents · mcp · scraping · web
+STACK=python, typescript, javascript, php, go
+FOCUS=ai-agents · mcp · scraping · web-apps
 OS=windows + wsl2
 ```
 
@@ -139,22 +139,20 @@ $ pyrecrawl --target https://example.com --mode scrape
 ## `~/.profile.d/`
 
 ```bash
-# Latent interests
+# Current interests
 INTERESTS=(
   "ai-agents"
   "mcp-protocol"
-  "scraping-anti-detection"
-  "bug-bounty"
-  "red-team-automation"
+  "web-scraping"
   "developer-experience"
   "indie-saas"
 )
 
-# Current obsessions
+# Active focus
 CURRENT_FOCUS=(
   "shipping PyreCrawl v0.3+"
   "MCP server ecosystem"
-  "agentic browser tooling"
+  "modern web tooling"
 )
 ```
 
